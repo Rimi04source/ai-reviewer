@@ -1,3 +1,3 @@
-# The GitHub action to review Pull Requests with ChatGPT
+# The GitHub action to review Pull Requests with ChatGPT tool
 
 
